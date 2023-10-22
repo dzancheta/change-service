@@ -1,0 +1,9 @@
+spring:
+  webflux:
+    base-path: /change-service
+
+server:
+  port: 9001
+
+initialize:
+  coin: 100
